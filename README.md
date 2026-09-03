@@ -1,2 +1,5 @@
 # readme
 https://claude.ai/redirect/claudedotcom.v1.claude_com.v1.ec0dc8ea-7d94-4bef-80a8-be848fd1e00b/oauth/authorize?code=true&client_id=9d1c250a-e61b-44d9-88ed-5944d1962f5e&response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A61698%2Fcallback&scope=org%3Acreate_api_key+user%3Aprofile+user%3Ainference+user%3Asessions%3Aclaude_code+user%3Amcp_servers+user%3Afile_upload&code_challenge=lntWKrDWMAjrlZanbuj-rQrzdXapdDirtRhWZZf4MXY&code_challenge_method=S256&state=FCxkzrUSEpFLiFrhcI2QE6gKNLQcYIZcJdABr0wmsak
+
+
+http://localhost:61698/callback?code=uP4UI3k3BpQ3MDrzEmCUuBLnTQ0DQ57R1KPxHp7yMZov6qnw&state=FCxkzrUSEpFLiFrhcI2QE6gKNLQcYIZcJdABr0wmsak
